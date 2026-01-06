@@ -4,8 +4,8 @@
     "tagline": "Advanced Security Solutions for Your Home",
     "phone": "0432588164",
     "email": "adrianhawkins77@gmail.com",
-    "address": "Sydney",
-    "suburb": "Sydney",
+    "address": "123 George Street",
+    "suburb": "Sydney CBD",
     "city": "Sydney",
     "state": "NSW",
     "postcode": "2000",
@@ -228,7 +228,7 @@
     },
     {
       "question": "What areas do you service?",
-      "answer": "We primarily service Sydney, and surrounding areas within QLD. Contact us to confirm we cover your location."
+      "answer": "We primarily service Sydney, and surrounding areas within NSW. Contact us to confirm we cover your location."
     },
     {
       "question": "Is parking available?",
