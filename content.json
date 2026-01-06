@@ -1,0 +1,351 @@
+{
+  "business": {
+    "name": "AJH Safety Solutions ",
+    "tagline": "Advanced Security Solutions for Your Home",
+    "phone": "1300 923 941",
+    "email": "adrianhawkins77@gmail.com",
+    "address": "Sydney",
+    "suburb": "Sydney",
+    "city": "Sydney",
+    "state": "QLD",
+    "postcode": "4000",
+    "country": "Australia",
+    "service": "Security Installations",
+    "serviceSlug": "security-installations",
+    "abn": "12 345 678 901",
+    "established": 2021,
+    "openingHours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/ajhsafetysolutions",
+      "instagram": "https://instagram.com/ajhsafetysolutions",
+      "google": "https://g.page/ajhsafetysolutions"
+    }
+  },
+  "services": [
+    {
+      "title": "Security Alarms",
+      "slug": "security-alarms",
+      "shortDescription": "Security alarm systems installation and monitoring",
+      "description": "Security alarm systems installation and monitoring",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "CCTV Surveillance Systems",
+      "slug": "cctv-surveillance-systems",
+      "shortDescription": "CCTV camera systems and surveillance solutions",
+      "description": "CCTV camera systems and surveillance solutions",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Cloud CCTV Security Cameras",
+      "slug": "cloud-cctv-security-cameras",
+      "shortDescription": "Cloud-based CCTV security camera systems",
+      "description": "Cloud-based CCTV security camera systems",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "24/7 Back to Base Monitoring",
+      "slug": "24-7-back-to-base-monitoring",
+      "shortDescription": "Round-the-clock security monitoring services",
+      "description": "Round-the-clock security monitoring services",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Intercoms",
+      "slug": "intercoms",
+      "shortDescription": "Intercom system installation",
+      "description": "Intercom system installation",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Access Control",
+      "slug": "access-control",
+      "shortDescription": "Access control system installation",
+      "description": "Access control system installation",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Camera and Installation Packages",
+      "slug": "camera-and-installation-packages",
+      "shortDescription": "Promotional camera packages including installations",
+      "description": "Promotional camera packages including installations",
+      "price": "Contact for pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+    }
+  ],
+  "serviceAreas": [
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "description": "Located in the heart of Sydney, we're your local AJH Safety Solutions  destination."
+    },
+    {
+      "name": "Sydney CBD",
+      "slug": "sydney-cbd",
+      "description": "Serving the Sydney CBD with exceptional service and quality."
+    },
+    {
+      "name": "Surrounding Areas",
+      "slug": "surrounding-areas",
+      "description": "We proudly serve Sydney and all surrounding suburbs."
+    }
+  ],
+  "team": [
+    {
+      "name": "Owner",
+      "role": "Founder & Lead Specialist",
+      "bio": "With over 15 years of experience, our founder established AJH Safety Solutions  to bring world-class security installations services to Sydney.",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+      "specialties": [
+        "Management",
+        "Customer Service",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Senior Specialist",
+      "role": "Senior Team Member",
+      "bio": "Our senior specialist brings 10 years of experience and is known for delivering exceptional results.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+      "specialties": [
+        "Expertise",
+        "Precision",
+        "Customer Care"
+      ]
+    },
+    {
+      "name": "Team Member",
+      "role": "Specialist",
+      "bio": "Passionate about security installations, bringing fresh ideas and excellent service to every client.",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      "specialties": [
+        "Innovation",
+        "Quality",
+        "Reliability"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "location": "Sydney",
+      "text": "I've been coming to AJH Safety Solutions  for years and wouldn't trust anyone else. The team are true professionals!",
+      "rating": 5,
+      "service": "Security Alarms",
+      "date": "2024-11"
+    },
+    {
+      "name": "David N.",
+      "location": "Sydney",
+      "text": "Finally found a security installations that delivers quality every time. Quick, professional, and great value.",
+      "rating": 5,
+      "service": "CCTV Surveillance Systems",
+      "date": "2024-10"
+    },
+    {
+      "name": "Jessica W.",
+      "location": "Sydney",
+      "text": "AJH Safety Solutions  exceeded all my expectations. The team was professional and the results were amazing!",
+      "rating": 5,
+      "service": "Cloud CCTV Security Cameras",
+      "date": "2024-09"
+    },
+    {
+      "name": "Amanda C.",
+      "location": "Sydney",
+      "text": "Best service in the area. Fair prices and great communication throughout.",
+      "rating": 5,
+      "service": "Security Alarms",
+      "date": "2024-11"
+    },
+    {
+      "name": "Sophie B.",
+      "location": "Sydney",
+      "text": "Called for an emergency and they were there within the hour. Couldn't be happier!",
+      "rating": 5,
+      "service": "CCTV Surveillance Systems",
+      "date": "2024-08"
+    },
+    {
+      "name": "Rachel G.",
+      "location": "Sydney",
+      "text": "Professional, reliable, and great attention to detail. Highly recommended!",
+      "rating": 5,
+      "service": "Cloud CCTV Security Cameras",
+      "date": "2024-10"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do I book an appointment?",
+      "answer": "You can book online through our website 24/7, call us on 0432588164 during business hours, or send us a message on social media."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
+    },
+    {
+      "question": "Do you offer free consultations?",
+      "answer": "Yes! We offer complimentary consultations for all our services. This helps us understand your needs and provide an accurate quote."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We primarily service Sydney, Sydney, and surrounding areas within QLD. Contact us to confirm we cover your location."
+    },
+    {
+      "question": "Is parking available?",
+      "answer": "Yes! Free parking is available near our location. There's also street parking and public transport options nearby."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment plans may be available for larger services."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes, we are fully licensed and insured. All our team members hold current certifications and undergo regular training."
+    },
+    {
+      "question": "Do you offer warranties on your work?",
+      "answer": "Yes! We stand behind our work with satisfaction guarantees and warranties on applicable services. Ask us for details."
+    }
+  ],
+  "about": {
+    "title": "Sydney's Most Trusted Security Installations Since 2021",
+    "story": "At AJH Safety Solutions, we specialise in comprehensive security systems to keep your home safe and secure. Our mission is clear: to provide affordable, high-quality security services with prompt delivery. We specialise in crafting personalised solutions for your home, focusing keenly on your specific needs and financial considerations. We provide tailored solutions, commitment to quality with high-quality equipment backed by manufacturer warranties, and prioritize customer satisfaction. Fully licensed, qualified and insured with NSW Master License 000106338.",
+    "mission": "Our mission is to deliver exceptional security installations services in a welcoming environment, using sustainable practices and premium products.",
+    "values": [
+      {
+        "title": "Excellence",
+        "description": "We never stop learning. Our team regularly trains with industry leaders to stay at the forefront of techniques and trends."
+      },
+      {
+        "title": "Honesty",
+        "description": "We'll always give you honest advice about what's achievable and what's best for your needs."
+      },
+      {
+        "title": "Reliability",
+        "description": "We're committed to showing up on time, every time, and delivering on our promises."
+      }
+    ],
+    "features": [
+      "Licensed & Fully Insured",
+      "Locally Owned Since 2021",
+      "Quality Guaranteed",
+      "Premium Products & Materials",
+      "Complimentary Consultations",
+      "Easy Parking Available"
+    ]
+  },
+  "gallery": [
+    {
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 1",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 2",
+      "category": "Recent"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 3",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 4",
+      "category": "Recent"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 5",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 6",
+      "category": "Recent"
+    }
+  ],
+  "seo": {
+    "siteName": "AJH Safety Solutions  Sydney",
+    "siteUrl": "https://ajhsafetysolutions.com.au",
+    "title": "AJH Safety Solutions  | Best Security Installations Sydney | Sydney Security Installations",
+    "description": "Sydney's top-rated security installations in Sydney. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "keywords": [
+      "security installations sydney",
+      "security installations sydney",
+      "best security installations sydney",
+      "sydney security installations",
+      "sydney security installations",
+      "local security installations",
+      "security installations near me",
+      "professional security installations",
+      "security installations services",
+      "QLD security installations"
+    ]
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "priceRange": "$$"
+  },
+  "colors": {
+    "primary": "#2563eb",
+    "primaryLight": "#3b82f6",
+    "secondary": "#1f2937",
+    "accent": "#f59e0b"
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop"
+  },
+  "copy": {
+    "heroSubtitle": "Professional security installations services with quality results guaranteed.",
+    "servicesSubtitle": "From routine maintenance to specialized services, our expert team delivers exceptional results.",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "Experienced professionals dedicated to delivering quality security installations services.",
+    "ctaTitle": "Ready for Professional Security Installations?",
+    "ctaSubtitle": "Get a free quote today and experience the AJH Safety Solutions  difference."
+  },
+  "cta": {
+    "primary": "Book Online",
+    "secondary": "Call Now",
+    "consultation": "Free Consultation"
+  }
+}
