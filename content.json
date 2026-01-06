@@ -42,7 +42,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&h=600&fit=crop"
     },
     {
       "title": "CCTV Surveillance Systems",
@@ -53,7 +53,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=600&fit=crop"
     },
     {
       "title": "Cloud CCTV Security Cameras",
@@ -64,7 +64,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop"
     },
     {
       "title": "24/7 Back to Base Monitoring",
@@ -75,7 +75,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=800&h=600&fit=crop"
     },
     {
       "title": "Intercoms",
@@ -86,7 +86,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
     },
     {
       "title": "Access Control",
@@ -97,7 +97,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&h=600&fit=crop"
     },
     {
       "title": "Camera and Installation Packages",
@@ -108,7 +108,7 @@
       "duration": "Varies",
       "icon": "star",
       "features": [],
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop"
     }
   ],
   "serviceAreas": [
@@ -335,8 +335,16 @@
     "accent": "#f59e0b"
   },
   "images": {
-    "hero": "https://files.catbox.moe/iytfdm.png",
-    "about": "https://files.catbox.moe/nb0th4.png"
+    "hero": "https://images.unsplash.com/photo-1558002038-1055907df827?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1562408590-e32931084e23?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&h=600&fit=crop"
+    ]
   },
   "copy": {
     "heroSubtitle": "Professional security installations services with quality results guaranteed.",
