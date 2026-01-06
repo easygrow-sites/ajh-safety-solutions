@@ -8,7 +8,7 @@
     "suburb": "Sydney",
     "city": "Sydney",
     "state": "NSW",
-    "postcode": "4000",
+    "postcode": "2000",
     "country": "Australia",
     "service": "Security Installations",
     "serviceSlug": "security-installations",
@@ -26,6 +26,10 @@
       "facebook": "https://facebook.com/ajhsafetysolutions",
       "instagram": "https://instagram.com/ajhsafetysolutions",
       "google": "https://g.page/ajhsafetysolutions"
+    },
+    "geo": {
+      "latitude": -33.8688,
+      "longitude": 151.2093
     }
   },
   "services": [
@@ -224,7 +228,7 @@
     },
     {
       "question": "What areas do you service?",
-      "answer": "We primarily service Sydney, Sydney, and surrounding areas within QLD. Contact us to confirm we cover your location."
+      "answer": "We primarily service Sydney, and surrounding areas within QLD. Contact us to confirm we cover your location."
     },
     {
       "question": "Is parking available?",
