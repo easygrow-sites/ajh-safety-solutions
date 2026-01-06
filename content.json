@@ -2,17 +2,16 @@
   "business": {
     "name": "AJH Safety Solutions ",
     "tagline": "Advanced Security Solutions for Your Home",
-    "phone": "1300 923 941",
+    "phone": "0432588164",
     "email": "adrianhawkins77@gmail.com",
     "address": "Sydney",
     "suburb": "Sydney",
     "city": "Sydney",
-    "state": "QLD",
+    "state": "NSW",
     "postcode": "4000",
     "country": "Australia",
     "service": "Security Installations",
     "serviceSlug": "security-installations",
-    "abn": "12 345 678 901",
     "established": 2021,
     "openingHours": {
       "monday": "9:00 AM - 5:00 PM",
@@ -273,41 +272,41 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 1",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop",
+      "alt": "Security Alarms",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 2",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
+      "alt": "CCTV Surveillance Systems",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 3",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+      "alt": "Cloud CCTV Security Cameras",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 4",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop",
+      "alt": "24/7 Back to Base Monitoring",
+      "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 5",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop",
+      "alt": "Intercoms",
+      "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 6",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
+      "alt": "Access Control",
+      "category": "Commercial"
     }
   ],
   "seo": {
     "siteName": "AJH Safety Solutions  Sydney",
     "siteUrl": "https://ajhsafetysolutions.com.au",
-    "title": "AJH Safety Solutions  | Best Security Installations Sydney | Sydney Security Installations",
-    "description": "Sydney's top-rated security installations in Sydney. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "title": "AJH Safety Solutions  | Security Installations Sydney | Professional Security Installations",
+    "description": "Sydney's top-rated security installations service. Expert residential and commercial security installations. Servicing Sydney & surrounding areas. Call 0432588164.",
     "keywords": [
       "security installations sydney",
       "security installations sydney",
@@ -332,8 +331,8 @@
     "accent": "#f59e0b"
   },
   "images": {
-    "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop",
-    "about": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop"
+    "hero": "https://files.catbox.moe/iytfdm.png",
+    "about": "https://files.catbox.moe/nb0th4.png"
   },
   "copy": {
     "heroSubtitle": "Professional security installations services with quality results guaranteed.",
