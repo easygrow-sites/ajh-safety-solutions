@@ -22,7 +22,7 @@ export default function ContactPage() {
           </nav>
 
           <div className="max-w-3xl">
-            <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">Book Your Appointment</h1>
+            <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">Get a Free Quote</h1>
             <p className="text-xl text-gray-300">
               Get in touch with our professional team for all your security needs.
             </p>
