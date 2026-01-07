@@ -4,7 +4,7 @@ import { content } from '@/lib/content';
 
 export const metadata: Metadata = {
   title: `Contact & Book | ${content.business.name}`,
-  description: `Book your appointment at ${content.business.name}. Located in ${content.business.suburb}, ${content.business.city}. Call ${content.business.phone} or book online.`,
+  description: `Contact ${content.business.name}. Located in ${content.business.suburb}, ${content.business.city}. Call ${content.business.phone} for a free quote.`,
 };
 
 export default function ContactPage() {
@@ -24,7 +24,7 @@ export default function ContactPage() {
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-white mb-6">Book Your Appointment</h1>
             <p className="text-xl text-gray-300">
-              Ready for amazing hair? Book online or get in touch with our team.
+              Get in touch with our professional team for all your security needs.
             </p>
           </div>
         </div>
