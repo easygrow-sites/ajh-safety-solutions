@@ -175,15 +175,31 @@ export default function ContactPage() {
       </section>
 
       {/* Map Placeholder */}
-      <section className="h-96 bg-gray-200 relative">
+      <section className="h-96 relative overflow-hidden">
+        <div
+          className="absolute inset-0"
+          style={{
+            backgroundImage: 'url(https://images.unsplash.com/photo-1558002038-1055907df827?w=1920&h=600&fit=crop)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center'
+          }}
+        />
+        <div className="absolute inset-0 bg-brand/80" />
         <div className="absolute inset-0 flex items-center justify-center">
-          <div className="text-center">
-            <svg className="w-16 h-16 text-gray-400 mx-auto mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <div className="text-center text-white px-4">
+            <svg className="w-16 h-16 mx-auto mb-4 opacity-90" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
-            <p className="text-gray-500">Map integration will display here</p>
-            <p className="text-gray-400 text-sm">{business.address}, {business.city}</p>
+            <h3 className="text-2xl font-bold mb-2">Serving {business.city} & Surrounding Areas</h3>
+            <p className="text-white/80 mb-4">{business.state}, Australia</p>
+            <div className="flex flex-wrap justify-center gap-2 max-w-xl mx-auto">
+              {content.serviceAreas.slice(0, 6).map((area) => (
+                <span key={area.slug} className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
+                  {area.name}
+                </span>
+              ))}
+            </div>
           </div>
         </div>
       </section>
